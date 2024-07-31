@@ -9,14 +9,40 @@
 ### I'm an Full Stack Developer, Dota 2 Player and Cybersecurity Student
 <img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
--  ⚔️  &nbsp;&nbsp;More than 4 years of development expertise
--  🔭  &nbsp;&nbsp;I’m currently working on a React | Kotlin | .NET Core | Postgres
--  💻  &nbsp;&nbsp;I've been used SOLID, Clean Code and Design Patterns
--  🌱  &nbsp;&nbsp;I’m currently learning .NetCore API's Data Driven, DDD and Unit Tests
--  🥅  &nbsp;&nbsp;2022 Goals: Being able to create applications with UX/UI knowledge (Front-end) and learn TDD, BDD, DDD, Clean Architecture, Message Broker and DevOps (Back-End)
+-  ⚔️  &nbsp;&nbsp;More than 5 years of development expertise
+-  🔭  &nbsp;&nbsp;I’m currently working on a React | Angular | .NET Core | Postgres | MySQL | SQL Server | DynamoDB | Redis | AWS | Azure | Docker | Kubernetes | Rancher
+-  💻  &nbsp;&nbsp;I have developed solutions, using different architectural styles and different types of storage
+-  🌱  &nbsp;&nbsp;I’m currently learning Enterprise Integration Patterns and UI/UX Best pratices
+-  🥅  &nbsp;&nbsp;2024 Goals: Learn as much as possible about architecture, testing and quality, and software standards. And get an AWS certification
 -  🚀  &nbsp;&nbsp;I aim to become a software/solutions architect (and maybe a Microsoft MVP 😁)
 -  ⚡  &nbsp;&nbsp;Fun fact: I am huge fan of System Of A Down!
-  
+
+<h3>Books:</h3>
+<h5>Read:</h5>
+- Clean Code: A Handbook of Agile Software Craftsmanship - Robert C.Martin<br/>
+- The Clean Coder: A Code of Conduct for Professional Programmers - Robert C.Martin<br/>
+- Design Patterns: Elements of Reusable Object-Oriented Software - (Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides) GOF<br/>
+- Test Driven Development: By Example - Kent Beck<br/>
+- Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans<br/>
+- Introduction to Algorithms, fourth edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein<br/>
+- Refactoring: Improving the Design of Existing Code - Martin Fowler<br/>
+- Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C.Martin<br/>
+<br/>
+<h5>Reading:</h5>
+- Patterns of Enterprise Application Architecture - Martin Fowler<br/>
+- Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - Jez Humble, David Farley<br/>
+- Fundamentals of Software Architecture: An Engineering Approach - Mark Richards, Neal Ford<br/>
+<br/>
+<h5>To read:</h5>
+- Building Microservices: Designing Fine-Grained Systems - Sam Newman<br/>
+- Mythical Man-Month, The: Essays on Software Engineering - Frederick Brooks Jr.<br/>
+- The Pragmatic Programmer: Your Journey To Mastery - David Thomas, Andrew Hunt<br/>
+- Cracking the Coding Interview: 189 Programming Questions and Solutions - Gayle Laakmann McDowell<br/>
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann<br/>
+- Observability Engineering: Achieving Production Excellence - Charity Majors, Liz Fong-Jones, George Miranda<br/>
+- Software Engineering at Google: Lessons Learned from Programming Over Time - Titus Winters, Tom Manshreck, Hyrum Wright<br/>
+<br/>
+
 ### 🤝🏻 Connect with me:
 
 [<img align="left" alt="Eduardo Felipe | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" />](https://www.linkedin.com/in/edufslima9/)
@@ -25,6 +51,7 @@
 <br />
 
 > "*Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.*" - Steve Jobs
+
 <h3 align="center">Languages and Tools:</h3>
 <h5 align="center">Front-end:</h5>
 <p align="center">
@@ -34,6 +61,7 @@
   <img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img alt="Material UI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </p>
 <h5 align="center">Back-end:</h5>
@@ -41,6 +69,7 @@
 <img alt=".Net Core" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img alt="EF Core" width="26px" src="https://github.com/edufslima9/edufslima9/blob/master/Icons/ef_core.svg" />
 <img alt="Dapper" width="26px" src="https://github.com/edufslima9/edufslima9/blob/master/Icons/dapper.svg" />
+<img alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 </p>
 <h5 align="center">Mobile:</h5>
 <p align="center">
@@ -54,13 +83,20 @@
   <img alt="mongo DB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 </p>
+<h5 align="center">Cloud</h5>
+<p align="center">
+  <img alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+</p>
 <h5 align="center">Tools:</h5>
 <p align="center">
   <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
 
 <br>
