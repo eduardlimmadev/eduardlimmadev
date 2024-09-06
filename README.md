@@ -9,11 +9,11 @@
 ### I'm an Full Stack Developer, Dota 2 Player and Cybersecurity Student
 <img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
--  ⚔️  &nbsp;&nbsp;More than 5 years of development expertise
+-  ⚔️  &nbsp;&nbsp;More than 6 years of development expertise
 -  🔭  &nbsp;&nbsp;I’m currently working on a React | Angular | .NET Core | Postgres | MySQL | SQL Server | DynamoDB | Redis | AWS | Azure | Docker | Kubernetes | Rancher
 -  💻  &nbsp;&nbsp;I have developed solutions, using different architectural styles and different types of storage
 -  🌱  &nbsp;&nbsp;I’m currently learning Enterprise Integration Patterns and UI/UX Best pratices
--  🥅  &nbsp;&nbsp;2024 Goals: Learn as much as possible about architecture, testing and quality, and software standards. And get an AWS certification
+-  🥅  &nbsp;&nbsp;2024 Goals: More about architecture, and get more AWS certifications
 -  🚀  &nbsp;&nbsp;I aim to become a software/solutions architect (and maybe a Microsoft MVP 😁)
 -  ⚡  &nbsp;&nbsp;Fun fact: I am huge fan of System Of A Down!
 
@@ -66,10 +66,15 @@
 </p>
 <h5 align="center">Back-end:</h5>
 <p align="center">
-<img alt=".Net Core" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img alt="EF Core" width="26px" src="https://github.com/edufslima9/edufslima9/blob/master/Icons/ef_core.svg" />
-<img alt="Dapper" width="26px" src="https://github.com/edufslima9/edufslima9/blob/master/Icons/dapper.svg" />
-<img alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+  <img alt=".Net Core" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="EF Core" width="26px" src="https://github.com/edufslima9/edufslima9/blob/master/Icons/ef_core.svg" />
+  <img alt="Dapper" width="26px" src="https://github.com/edufslima9/edufslima9/blob/master/Icons/dapper.svg" />
+  <img alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+  <img alt="Kafka" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+  <img alt="RabbitMQ" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+  <img alt="jeager Tracing" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-original-wordmark.svg" />
+  <img alt="OpenTelemetry" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original-wordmark.svg" />
+  <img alt="Swagger" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" />
 </p>
 <h5 align="center">Mobile:</h5>
 <p align="center">
@@ -85,11 +90,19 @@
 </p>
 <h5 align="center">Cloud</h5>
 <p align="center">
-  <img alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img alt="AWS" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  <img alt="NGINX" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
   <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img alt="Helm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" />
+  <img alt="Rancher" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg" />
+  <img alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
+  <img alt="ElasticSearch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
+  <img alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
+  <img alt="GitHub Actions" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+  <img alt="SonarQube" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" />
 </p>
 <h5 align="center">Tools:</h5>
 <p align="center">
@@ -97,6 +110,8 @@
   <img alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
 </p>
 
 <br>
